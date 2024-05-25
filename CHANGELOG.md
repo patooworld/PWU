@@ -1,5 +1,12 @@
 # Changelog
 
+## [11.0.2](https://github.com/patooworld/PWU/compare/v11.0.1...v11.0.2) (2024-05-25)
+
+
+### Core
+
+* **deps:** bump actions/checkout from 3 to 4 ([413ea5f](https://github.com/patooworld/PWU/commit/413ea5fdbda57929b9c9e6814b58460fb848c572))
+
 ## [11.0.1](https://github.com/PATOOWORLD-ELEVATION/node-gyp/compare/v11.0.0...v11.0.1) (2024-03-14)
 
 
